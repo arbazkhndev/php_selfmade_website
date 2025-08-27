@@ -33,6 +33,9 @@ require 'db.php';
                 <li class="nav-item mx-3">
                     <a class="nav-link" href="about.php" style="font-size: 1rem;">About</a>
                 </li>
+                   <li class="nav-item mx-3">
+                    <a class="nav-link" href="products.php" style="font-size: 1rem;">Products</a>
+                </li>
             </ul>
         </div>
 

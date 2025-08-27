@@ -32,6 +32,9 @@ require 'db.php';
                 <li class="nav-item mx-3">
                     <a class="nav-link" href="about.php" style="font-size: 1rem;">About</a>
                 </li>
+                   <li class="nav-item mx-3">
+                    <a class="nav-link" href="products.php" style="font-size: 1rem;">Products</a>
+                </li>
             </ul>
         </div>
 
@@ -43,8 +46,7 @@ require 'db.php';
         <?php endif; ?>
 
     </div>
-</nav>
-<!-- HERO SECTION -->
+</nav><!-- HERO SECTION -->
 <div class="container text-center my-5">
     <h1 class="display-4 text-info">About Community Portal</h1>
     <p class="lead text-light">Connecting members, sharing announcements, and building a strong community.</p>
